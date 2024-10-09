@@ -1,2 +1,1 @@
 # ResNet18-CIFAR10
-# ResNet18-CIFAR10
